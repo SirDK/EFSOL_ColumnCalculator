@@ -1,0 +1,15 @@
+C:\Users\senio\source\repos\ColumnCalculator\bin\Debug\ColumnCalculator.exe.config
+C:\Users\senio\source\repos\ColumnCalculator\bin\Debug\ColumnCalculator.exe
+C:\Users\senio\source\repos\ColumnCalculator\bin\Debug\ColumnCalculator.pdb
+C:\Users\senio\source\repos\ColumnCalculator\obj\Debug\ColumnCalculator.csprojAssemblyReference.cache
+C:\Users\senio\source\repos\ColumnCalculator\obj\Debug\MainWindow.g.cs
+C:\Users\senio\source\repos\ColumnCalculator\obj\Debug\App.g.cs
+C:\Users\senio\source\repos\ColumnCalculator\obj\Debug\ColumnCalculator_MarkupCompile.cache
+C:\Users\senio\source\repos\ColumnCalculator\obj\Debug\ColumnCalculator_MarkupCompile.lref
+C:\Users\senio\source\repos\ColumnCalculator\obj\Debug\MainWindow.baml
+C:\Users\senio\source\repos\ColumnCalculator\obj\Debug\ColumnCalculator.g.resources
+C:\Users\senio\source\repos\ColumnCalculator\obj\Debug\ColumnCalculator.Properties.Resources.resources
+C:\Users\senio\source\repos\ColumnCalculator\obj\Debug\ColumnCalculator.csproj.GenerateResource.cache
+C:\Users\senio\source\repos\ColumnCalculator\obj\Debug\ColumnCalculator.csproj.CoreCompileInputs.cache
+C:\Users\senio\source\repos\ColumnCalculator\obj\Debug\ColumnCalculator.exe
+C:\Users\senio\source\repos\ColumnCalculator\obj\Debug\ColumnCalculator.pdb
